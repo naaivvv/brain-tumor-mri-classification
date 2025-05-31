@@ -1,0 +1,13 @@
+# Ignore specific directories
+/brain-tumor-mri-dataset/
+/data/
+/__pycache__/
+.ipynb_checkpoints/
+/sample_data/
+
+# Ignore specific files
+kaggle.json
+streamlit.log
+*.log
+*.env
+*.sqlite
