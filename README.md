@@ -1,6 +1,6 @@
 ### Brain Tumor MRI Classification
 
-This project demonstrates the classification of brain tumors using MRI images with machine learning techniques, based on the **"Brain Tumor MRI Dataset."**
+This project demonstrates the classification of brain tumors using MRI images with deep learning techniques, based on the **"Brain Tumor MRI Dataset."**
 
 **Kaggle Dataset:** [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
